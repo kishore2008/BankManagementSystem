@@ -1,2 +1,2 @@
 # BankManagementSystem
-This is a simple Bank-Management-System app 
+This is a simple Bank-Management-System app using Java
